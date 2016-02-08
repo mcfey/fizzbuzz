@@ -54,4 +54,6 @@ for x in range(1, n+1):
         x = Fizz
     if x%b = 0:
         x = Buzz
+    if x%b= 0 and x%f = 0
+        x = FizzBuzz
     print(x)
